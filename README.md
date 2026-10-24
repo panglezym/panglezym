@@ -1,8 +1,8 @@
 ### 你好，我是赵永明 👋
 
-AI 产品经理，关注 AI Agent 怎么落到具体行业里：多 Agent 系统设计、知识库与 RAG、数据产品，以及医疗、汽车、游戏客服这些场景。
+关注 AI Agent 怎么落到具体行业里：多 Agent 系统设计、知识库与 RAG、数据产品，以及医疗、汽车、游戏客服这些场景。
 
-*AI product manager, working on how AI agents land in real industries.*
+*Working on how AI agents land in real industries.*
 
 **📂 作品集：[panglezym.github.io](https://panglezym.github.io/)**
 
